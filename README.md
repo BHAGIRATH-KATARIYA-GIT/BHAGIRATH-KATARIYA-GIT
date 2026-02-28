@@ -139,7 +139,8 @@
 &nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge&logoWidth=20)](https://x.com/BHAGIRATH987)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:bhagirathkatariya078@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Compose-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=bhagirathkatariya078@gmail.com)
+
 
 <p align="center">
   <code>bhagirathkatariya078@gmail.com</code>
