@@ -18,6 +18,8 @@
 
 ## 🧠 About Me
 
+🎓 I'm B.TECH CSE student at IIIT KOTA
+
 🚀 Passionate about building modern web apps  
 
 🧩 Strong interest in Data Structures & Algorithms  
@@ -129,6 +131,8 @@
 
 <br/>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/bhagirath-katariya-579996323)
 &nbsp;&nbsp;
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/BHAGIRATH_10)
@@ -137,20 +141,20 @@
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:bhagirathkatariya078@gmail.com)
 
+<p align="center">
+  <code>bhagirathkatariya078@gmail.com</code>
+</p>
+
 <br/>
 
 > 💬 *Open to collaborations, learning opportunities & meaningful conversations*
 
 </div>
 
+
+
+
 ---
 
 
-<!-- ## 📊  Contributions
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=BHAGIRATH-KATARIYA-GIT&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" />
-</div> -->
-
-
-<!-- [![](https://visitcount.itsvg.in/api?id=BHAGIRATH-KATARIYA-GIT&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
