@@ -133,13 +133,25 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/bhagirath-katariya-579996323)
+<a href="https://linkedin.com/in/bhagirath-katariya-579996323" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
 &nbsp;&nbsp;
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/BHAGIRATH_10)
+
+<a href="https://reddit.com/user/BHAGIRATH_10" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" />
+</a>
 &nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge&logoWidth=20)](https://x.com/BHAGIRATH987)
+
+<a href="https://x.com/BHAGIRATH987" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge&logoWidth=20" />
+</a>
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Compose-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=bhagirathkatariya078@gmail.com)
+
+<a href="mailto:bhagirathkatariya078@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
+
 
 
 <p align="center">
