@@ -30,8 +30,6 @@
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagirath-katariya-579996323) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BHAGIRATH_10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BHAGIRATH987) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhagirathkatariya078@gmail.com) 
 
 # 💻 Tech Stack:
 
@@ -116,19 +114,42 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
+<div align="center" width="100%">
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=BHAGIRATH-KATARIYA-GIT&theme=shadow_green&hide_border=true" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHAGIRATH-KATARIYA-GIT&theme=github-compact&hide_border=true&area=true" width="90%" />
+</div>
 
 
-![](https://github-readme-stats.vercel.app/api?username=BHAGIRATH-KATARIYA-GIT&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BHAGIRATH-KATARIYA-GIT&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAGIRATH-KATARIYA-GIT&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BHAGIRATH-KATARIYA-GIT&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
+## 📬 Let's Connect
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/bhagirath-katariya-579996323)
+&nbsp;&nbsp;
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/BHAGIRATH_10)
+&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge&logoWidth=20)](https://x.com/BHAGIRATH987)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:bhagirathkatariya078@gmail.com)
+
+<br/>
+
+> 💬 *Open to collaborations, learning opportunities & meaningful conversations*
+
+</div>
+
+---
+
+
+<!-- ## 📊  Contributions
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=BHAGIRATH-KATARIYA-GIT&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" />
-</div>
+</div> -->
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=BHAGIRATH-KATARIYA-GIT&icon=0&color=0)](https://visitcount.itsvg.in) -->
