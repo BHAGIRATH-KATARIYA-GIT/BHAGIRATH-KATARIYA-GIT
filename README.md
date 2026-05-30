@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,100:064e3b&height=180&section=header&text=BHAGIRATH%20KATARIYA&fontSize=60&fontColor=00ffaa&animation=fadeIn&fontAlignY=52"/>
+
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" width="100%" height="1000px" alt="Header GIF"/>
+</p>
+
+
 
 
 ### 🎓 Student • 💻 Web Developer • 🧠 DSA & Competitive Programming 
@@ -118,10 +124,33 @@
 
 # 📊 GitHub Stats
 
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
 <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=BHAGIRATH-KATARIYA-GIT&theme=shadow_green&hide_border=true" width="70%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHAGIRATH-KATARIYA-GIT&theme=github-compact&hide_border=true&area=true" width="90%" />
+</div> -->
+
+<div align="center">
+
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BHAGIRATH-KATARIYA-GIT&theme=shadow-green&hide_border=true" width="70%" />
+
+<br><br>
+
+<table align="center">
+<tr>
+<td width="60%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHAGIRATH-KATARIYA-GIT&theme=github-compact&hide_border=true&area=true" />
+</td>
+
+<td width="40%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHAGIRATH-KATARIYA-GIT&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
 </div>
 
 
@@ -135,12 +164,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/bhagirath-katariya-579996323) &nbsp;&nbsp; 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/BHAGIRATH_10) &nbsp;&nbsp; 
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge&logoWidth=20)](https://x.com/BHAGIRATH987) &nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Email-Compose-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=bhagirathkatariya078@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge&logoWidth=20)](https://x.com/BHAGIRATH987) &nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Email-Compose-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=bhagirath.katariya.dev@gmail.com@gmail.com)
 
 
 
 <p align="center">
-  <code>bhagirathkatariya078@gmail.com</code>
+  <code>bhagirath.katariya.dev@gmail.com</code>
 </p>
 
 <br/>
